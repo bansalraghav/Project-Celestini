@@ -1,2 +1,3 @@
 A total of 5 videos are there inside this folder clearly showing the objects and values obtained by the sensor on the serial monitor.  
 Images have also been attached of the circuit we have used.  
+The arduino code has also been attached which was used to take the readings. (File name: arduino_code.ino)
