@@ -1,0 +1,1 @@
+RUN neural net.py with X_neuralnet.npy and X_nn_test in the same folder
