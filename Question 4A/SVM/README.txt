@@ -1,0 +1,1 @@
+RUN svm.py with the two numpy arrays stored in the same folder
